@@ -40,6 +40,28 @@ ul {
 
 }
 
+h2 {
+    color: #4aaaa5;
+}
+
 li a {
     color: #cccccc;
+}
+
+.form-row{
+    background-color: #ffffff;
+    padding: 10px;
+    color: #777777;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+#name, #email, #message {
+
+    padding: 12px;    
+}
+
+#message {
+    height: 200px;
+
 }
