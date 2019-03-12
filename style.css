@@ -42,6 +42,9 @@ ul {
 
 h2 {
     color: #4aaaa5;
+    margin: 20px;
+    border-bottom: 2px solid #cccccc;
+    padding-bottom: 20px;
 }
 
 li a {
@@ -65,3 +68,15 @@ li a {
     height: 200px;
 
 }
+.textimg {
+    position: absolute;
+    background-color: #4aaaa5;
+    color: white;
+    width: 400px;
+    text-align: center;
+    top: 175px;
+    float: left;
+
+  }
+  
+
