@@ -13,19 +13,7 @@ h1 {
 
 
 }
-.footer {
 
-    text-align: center;
-    color: #ffffff;
-    background-color: #666666;
-    border-top: 8px solid #4aaaa5;
-    padding-top: 20px;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    font-size: 12px;
-    position: sticky;
-}
 
 .container-fluid {
 
@@ -79,4 +67,18 @@ li a {
 
   }
   
+ /*Footer*/
+ 
+  .footer {
 
+    text-align: center;
+    color: #ffffff;
+    background-color: #666666;
+    border-top: 8px solid #4aaaa5;
+    padding-top: 20px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    font-size: 12px;
+    position: sticky;
+}
